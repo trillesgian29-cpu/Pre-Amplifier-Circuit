@@ -38,7 +38,7 @@ The amplified output is suitable for connection to a power amplifier.
 
 ## 📂 Repository Contents
 - [docs/](docs/) → Project report and documentation  
-- [images/](pcb-screenshot) → PCB layout screenshots and build photos  
+- [images/](pcb-screenshots) → PCB layout screenshots and build photos  
 - [gerber/](gerber/) → Exported Gerber files for fabrication  
 - `README.md` → Project overview and learnings  
 
