@@ -39,7 +39,7 @@ The amplified output is suitable for connection to a power amplifier.
 ## 📂 Repository Contents
 - [docs/](Pre-amp_TrillesGianCarlo_2a.pdf) → Project report and documentation  
 - [images/](pcb-screenshots) → PCB layout screenshots and build photos  
-- [gerber/](gerber/) → Exported Gerber files for fabrication  
+- [gerber/](Gerber_PCB7_2026-03-10.zip) → Exported Gerber files for fabrication  
 - `README.md` → Project overview and learnings  
 
 ---
